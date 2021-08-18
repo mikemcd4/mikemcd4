@@ -1,6 +1,5 @@
 ### Hi! I'm Mike!
 
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
 
 ----
 
@@ -9,8 +8,6 @@ I live in Austin, TX, and am interested in learning about data analytics and vis
 -----
 
 
-
------
 <a href="https://github.com/Daggy1234">
   <img src="https://komarev.com/ghpvc/?username=mikemcd4&style=flat-square" />
 </a>
