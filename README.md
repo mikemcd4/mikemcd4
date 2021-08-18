@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @mikemcd4
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning data visualization and analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi! I'm Mike!
 
-<!---
-mikemcd4/mikemcd4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
+
+----
+
+I live in Austin, TX, and am interested in learning about data analytics and visualization.
+
+-----
+
+
+
+-----
+<a href="https://github.com/Daggy1234">
+  <img src="https://komarev.com/ghpvc/?username=mikemcd4&style=flat-square" />
+</a>
+
+
+***
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikemcd4&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/Daggy1234">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikemcd4&layout=compact" />
+</a>
+
+
+-----
